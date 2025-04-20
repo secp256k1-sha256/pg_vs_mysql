@@ -13,7 +13,7 @@ Inspired by [Wangbin579](https://x.com/wangbin579)'s initiative, this project ai
 
 ## 🎯 Goal
 
-To build a curated set of **focused performance tests** where PostgreSQL clearly has an edge over MySQL, supported by clear documentation and benchmark results.
+To build a set of **focused performance tests** where PostgreSQL clearly has an edge over MySQL, supported by clear documentation and benchmark results. Aim is not to prove one database is better than other, just collecting special scenario where Postgres will be an obvious choice.
 
 ---
 
